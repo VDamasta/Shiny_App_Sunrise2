@@ -1,0 +1,12 @@
+name: Sunrise_Dashboard
+title: Sunrise_Dashboard
+username:
+account: vdamasta
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 349662
+bundleId: 1395528
+url: https://vdamasta.shinyapps.io/Sunrise_Dashboard/
+when: 1527451413.21205
+asMultiple: FALSE
+asStatic: FALSE
